@@ -11,4 +11,4 @@ Pursuing Computer Science | Coding Dreams 🚀💻
 -->
 
 ### I Code in
-<img height = "50" width = "50" src ="https://www.freepik.com/icon/java_5968282#fromView=search&page=1&position=3&uuid=e4ace5c8-adbb-4744-b92c-b6d123378b39" />
+<img width="50" height="50" src="https://img.icons8.com/external-tal-revivo-regular-tal-revivo/24/external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-regular-tal-revivo.png" alt="external-java-is-a-general-purpose-programming-language-that-is-class-based-logo-regular-tal-revivo"/>" />
